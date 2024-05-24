@@ -5,7 +5,7 @@
 % The method is based on the results presented in "A. Mauroy, I. Mezic, and J. Moehlis, Isostables, isochrons, and Koopman spectrum 
 % for the action-angle reduction of stable fixed point dynamics, Physica D, vol. 261, pp. 19-30, 2013"
 
-% For more information, please email me at "a.mauroy 'at' ulg.ac.be"
+% For more information, please email me at "alexandre.mauroy 'at' unamur.be"
 
 % Written by Alexandre Mauroy
 
